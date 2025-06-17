@@ -1,0 +1,12 @@
+name: AIceite
+title: AIceite
+username: marta-barea
+account: marta-barea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14950548
+bundleId: 10472689
+url: https://marta-barea.shinyapps.io/AIceite/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
