@@ -5,7 +5,7 @@ account: marta-barea
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14950548
-bundleId: 10472689
+bundleId: 10933897
 url: https://marta-barea.shinyapps.io/AIceite/
 version: 1
 asMultiple: FALSE
